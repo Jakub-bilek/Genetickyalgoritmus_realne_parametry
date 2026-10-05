@@ -1,0 +1,1 @@
+# Genetickyalgoritmus_realne_parametry
